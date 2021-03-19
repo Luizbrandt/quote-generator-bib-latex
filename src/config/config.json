@@ -1,0 +1,74 @@
+{
+    "COLORS": {
+        "GREEN_1": "#4CAF50",
+        "GREEN_2": "#8BC34A",
+        "GREEN_3": "#1B5E20",
+        "GRAY_1": "#263238"
+    },
+
+    "ICONS": {
+        "GIT": "mdi-github",
+        "MAIL": "mdi-email-alert",
+        "CLOSE": "mdi-close"
+    },
+
+    "TITLES": {
+
+        "TOPBAR_PT": "Gerador de Citações (BIB Text)",
+        "TOPBAR_EN": "Citations Generator (BIB Text)",
+
+        "NAVBAR": {
+            "GIT": "@Luizbrandt",
+            "MAIL": "abrandtdev@gmail.com",
+            "CLOSE_PT": "Fechar",
+            "CLOSE_EN": "Close"
+        },
+
+        "CARD_PT": "Gerador de citações para arquivos '.bib' do Latex",
+        "CARD_EN": "'.bib' files citation generator - Latex"
+    },
+
+    "LINKS": {
+        "GIT": "https://github.com/Luizbrandt"
+    },
+
+    "LABELS": {
+        "SWITCH_PT": "Português",
+        "SWITCH_EN": "English"
+    },
+
+    "TEXT": {
+        "MAIN_CARD_PT": "Visando facilitar a vida dos usuários de Latex, o gerador de citações cria a citação pronta para colar no seu arquivo '.bib', podendo inclusive fazer o download do arquivo gerado. Use com sabedoria!",
+        "MAIN_CARD_EN": "To make '.bib' files easier, this citations generator creates the citation automatically - the '.bib' file can be downloaded as well. Use wisely!"
+    },
+
+    "FORM_LABELS_PT": {
+        "TITLE": "Título",
+        "AUTHOR": "Autor",
+        "YEAR": "Ano de Publicação",
+        "EDITION": "Edição",
+        "NUMBER": "Número",
+        "VOLUME": "Volume",
+        "PUBLISHER": "Editora",
+        "JOURNAL": "Periódico",
+        "ADDRESS": "Endereço",
+        "URL": "Link de Acesso",
+        "ACCESS_DATE": "Data de Acesso",
+        "PAGES": "Páginas"
+    },
+
+    "FORM_LABELS_EN": {
+        "TITLE": "Title",
+        "AUTHOR": "Author",
+        "YEAR": "Year",
+        "EDITION": "Edition",
+        "NUMBER": "Number",
+        "VOLUME": "Volume",
+        "PUBLISHER": "Publisher",
+        "JOURNAL": "Journal",
+        "ADDRESS": "Address",
+        "URL": "Url",
+        "ACCESS_DATE": "Access Date",
+        "PAGES": "Pages"
+    }
+}
