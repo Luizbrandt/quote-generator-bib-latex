@@ -30,15 +30,15 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
 
 ##### 📰 Geração de Citações para Artigos (Exemplo - Ingês/Português)
 
-<img src="./img/main-menu-article-en.PNG" height="750px"></img>
-<img src="./img/main-menu-article-pt.PNG" height="750px"></img>
+<img src="./img/main-menu-article-en.PNG" height="650px"></img>
+<img src="./img/main-menu-article-pt.PNG" height="650px"></img>
 
 <br/>
 
 
 ##### 📖 Geração de Citações para Livros (Exemplo - Ingês/Português)
 
-<img src="./img/main-menu-book-en.PNG" height="750px"></img>
-<img src="./img/main-menu-book-pt.png" height="750px"></img>
+<img src="./img/main-menu-book-en.PNG" height="650px"></img>
+<img src="./img/main-menu-book-pt.png" height="650px"></img>
 
 <br/>
