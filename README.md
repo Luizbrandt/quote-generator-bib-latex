@@ -54,7 +54,7 @@ Clique no botão 'Copiar' - um alerta vai aparecer na tela, indicando que a cita
 }
 ```
 
-#### Passo 3:
+#### Passo 4:
 
 <p align=”justify” style="text-align: justify;">
 Com a citação copiada, basta colar a variável criada no seu arquivo '.bib', utilizando um dos os comandos abaixo para citar, utilizando sempre o nome da variável:
@@ -67,6 +67,12 @@ Com a citação copiada, basta colar a variável criada no seu arquivo '.bib', u
 
 <p align="center"> 
     <img align="center" src="./img/use-example-5.png" alt="Quarto Passo: Utilizar citação criada" width="500px"/>
+</p>
+
+- Formato nas referências:
+
+<p align="center"> 
+    <img align="center" src="./img/use-example-6.png" alt="Formato - Referências" width="500px"/>
 </p>
 
 <br/>
