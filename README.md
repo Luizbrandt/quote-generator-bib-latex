@@ -6,6 +6,24 @@ Já pensou em quanto tempo gasto criando as variáveis de citação do latex, us
 
 <br/>
 
+#### ✂️ Funcionalidades:
+- Plataforma em dois idiomas.
+- Geração de citações para livros e artigos.
+- Utilização de até 6 autores.
+- Download de arquivo com extensão 'bib'.
+- Redirecionamento para GitHub do desenvolvedor.
+- Email para o desenvolvedor.
+
+<br/>
+
+<br/>
+
+#### ↖️ Melhorias (Versão 2.0):
+- Componentização (atual é single component).
+- Melhoria na atualização dinâmica de autores.
+- Login e Histórico de citações criadas.
+- Geração de arquivo com mais de uma citação.
+
 #### 🛠️ Instalação do Projeto
 
 - Clonar o repositório, rodando o comando a seguir dentro da pasta criada:
