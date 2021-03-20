@@ -11,10 +11,14 @@ Já pensou em quanto tempo gasto criando as variáveis de citação do latex, us
 
 Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi utilizado, contendo todos os aspectos visuais da interface, além de contar com a opção de tradução da plataforma para o inglês. As imagens a seguir mostram a interface principal (contendo o formulário e os atributos da citação a ser gerada).
 
+##### 📰 Geração de Citações para Artigos (Exemplo - Ingês/Português)
+
 <p align="center">
   <img src="./img/main-menu-article-en.PNG" width="450px" align="left"></img>
   <img src="./img/main-menu-article-pt.PNG" width="450px" align="left"></img>
 </p>
+
+<br/>
 
 #### 🛠️ Instalação do Projeto
 
