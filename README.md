@@ -21,6 +21,10 @@ Já pensou em quanto tempo gasto criando as variáveis de citação do latex, us
 - Melhoria na atualização dinâmica de autores.
 - Login e Histórico de citações criadas.
 - Geração de arquivo com mais de uma citação.
+- Estilização da barra superior.
+- Inclusão de rodapé (footer).
+- Adição de opções na barra lateral, como LinkedIn.
+- Integração com projetos do Overleaf.
 
 <br/>
 
