@@ -45,12 +45,12 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
 
 ##### 📖 Geração de Citações (Exemplo)
 
-<img src="./img/example-1.png"></img>
+<img src="./img/example-1.png" height="650px" align="center"></img>
 
 <br/>
 
 ##### 📖 Geração de Citações - Download de Arquivo (Exemplo)
 
-<img src="./img/example-2.png"></img>
+<img src="./img/example-2.png" witdh="500px" align="center"></img>
 
 <br/>
