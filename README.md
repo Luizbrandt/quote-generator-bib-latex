@@ -36,7 +36,7 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
 
 ##### 📖 Geração de Citações para Livros (Exemplo - Ingês/Português)
 
-<img src="./img/main-menu-book-en.PNG" width="450px" align="left"></img>
-<img src="./img/main-menu-book-pt.png" width="450px" align="right"></img>
+<img src="./img/main-menu-book-en.PNG" width="450px"></img>
+<img src="./img/main-menu-book-pt.png" width="450px"></img>
 
 <br/>
