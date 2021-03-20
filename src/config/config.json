@@ -3,13 +3,16 @@
         "GREEN_1": "#4CAF50",
         "GREEN_2": "#8BC34A",
         "GREEN_3": "#1B5E20",
-        "GRAY_1": "#263238"
+        "GRAY_1": "#263238",
+        "ORANGE_1": "#F57F17"
     },
 
     "ICONS": {
         "GIT": "mdi-github",
         "MAIL": "mdi-email-alert",
-        "CLOSE": "mdi-close"
+        "CLOSE": "mdi-close",
+        "ALERT": "mdi-alert-box",
+        "ADD": "mdi-plus"
     },
 
     "TITLES": {
@@ -34,7 +37,14 @@
 
     "LABELS": {
         "SWITCH_PT": "Português",
-        "SWITCH_EN": "English"
+        "SWITCH_EN": "English",
+
+        "TYPE": {
+            "BOOK_PT": "Livro",
+            "BOOK_EN": "Book",
+            "ARTICLE_PT": "Artigo",
+            "ARTICLE_EN": "Article"
+        }
     },
 
     "TEXT": {
@@ -43,6 +53,7 @@
     },
 
     "FORM_LABELS_PT": {
+        "VARIABLE": "Variável",
         "TITLE": "Título",
         "AUTHOR": "Autor",
         "YEAR": "Ano de Publicação",
@@ -51,13 +62,17 @@
         "VOLUME": "Volume",
         "PUBLISHER": "Editora",
         "JOURNAL": "Periódico",
-        "ADDRESS": "Endereço",
+        "ADDRESS": {
+            "CITY": "Cidade",
+            "STATE": "Estado"
+        },
         "URL": "Link de Acesso",
         "ACCESS_DATE": "Data de Acesso",
         "PAGES": "Páginas"
     },
 
     "FORM_LABELS_EN": {
+        "VARIABLE": "Variable",
         "TITLE": "Title",
         "AUTHOR": "Author",
         "YEAR": "Year",
@@ -66,9 +81,52 @@
         "VOLUME": "Volume",
         "PUBLISHER": "Publisher",
         "JOURNAL": "Journal",
-        "ADDRESS": "Address",
+        "ADDRESS": {
+            "CITY": "City",
+            "STATE": "State"
+        },
         "URL": "Url",
         "ACCESS_DATE": "Access Date",
         "PAGES": "Pages"
-    }
+    },
+
+    "BUTTONS": {
+        "PT": {
+            "SUBMIT": "Gerar",
+            "CLEAR": "Limpar Formulário",
+            "COPY": "Copiar",
+            "SAVE": "Salvar"
+        },
+        "EN": {
+            "SUBMIT": "Generate",
+            "CLEAR": "Reset",
+            "COPY": "Copy",
+            "SAVE": "Save"
+        }
+    },
+
+    "RULES": {
+        "REQUIRED_PT": "Campo obrigatório!",
+        "REQUIRED_EN": "Mandatory field!",
+        "IDENTIFIER_PT": "O nome da variável deve respeitar as regras de identificadores!",
+        "IDENTIFIER_EN": "Variable's names must follow the identifier's rules!"
+    },
+
+    "ALERT": {
+        
+        "TYPE": {
+            "SUCCESS": "success",
+            "WARNING": "warning"
+        },
+
+        "TEXT": {
+            "COPIED_PT": "Citação copiada!",
+            "COPIED_EN": "Copied citation!",
+            "FORM_PT": "Formulário imcompleto!",
+            "FORM_EN": "Imcomplete form!"
+
+        }
+    },
+
+    "TIMEOUT": 3000
 }
