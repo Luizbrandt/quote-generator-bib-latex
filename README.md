@@ -15,6 +15,9 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
 
 <p align="center">
   <img src="./img/main-menu-article-en.PNG" width="450px" align="left"></img>
+</p>
+
+<p align="center">
   <img src="./img/main-menu-article-pt.PNG" width="450px" align="right"></img>
 </p>
 
