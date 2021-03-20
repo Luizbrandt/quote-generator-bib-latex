@@ -13,7 +13,7 @@ Entre com todos os atributo da sua citação, como na imagem abaixo (atualmente,
 </p>
 
 <p align="center"> 
-    <img align="center" src="./img/use-example.png" alt="Primeiro Passo: Entrada dos dados"/>
+    <img align="center" src="./img/use-example.png" alt="Primeiro Passo: Entrada dos dados" width="500px"/>
 </p> 
 
 #### Passo 2:
@@ -23,7 +23,7 @@ Clique no botão 'Gerar' - a citação vai ser criada, abrindo uma caixa de text
 </p>
 
 <p align="center"> 
-    <img align="center" src="./img/use-example-3.png" alt="Segundo Passo: Criação da citação"/>
+    <img align="center" src="./img/use-example-3.png" alt="Segundo Passo: Criação da citação" width="500px"/>
 </p>
 
 #### Passo 3:
@@ -33,7 +33,7 @@ Clique no botão 'Copiar' - um alerta vai aparecer na tela, indicando que a cita
 </p>
 
 <p align="center"> 
-    <img align="center" src="./img/use-example-4.png" alt="Terceiro Passo: Copiar/Salvar"/>
+    <img align="center" src="./img/use-example-4.png" alt="Terceiro Passo: Copiar/Salvar" width="500px"/>
 </p>
 
 <br/>
