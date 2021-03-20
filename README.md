@@ -72,7 +72,7 @@ Com a citação copiada, basta colar a variável criada no seu arquivo '.bib', u
 - Formato nas referências:
 
 <p align="center"> 
-    <img align="center" src="./img/use-example-6.png" alt="Formato - Referências" width="500px"/>
+    <img align="center" src="./img/use-example-6.PNG" alt="Formato - Referências" width="500px"/>
 </p>
 
 <br/>
