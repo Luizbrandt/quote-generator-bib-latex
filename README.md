@@ -16,13 +16,21 @@ Já pensou em quanto tempo gasto criando as variáveis de citação do latex, us
 
 <br/>
 
-<br/>
-
 #### ↖️ Melhorias (Versão 2.0):
 - Componentização (atual é single component).
 - Melhoria na atualização dinâmica de autores.
 - Login e Histórico de citações criadas.
 - Geração de arquivo com mais de uma citação.
+
+<br/>
+
+#### 🔡 Tecnologias Utilizadas:
+- Node.js
+- Javascript
+- HTML5 e CSS3
+- Vue.Js (Vuetify)
+
+<br/>
 
 #### 🛠️ Instalação do Projeto
 
