@@ -22,14 +22,3 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
     <img src="./img/main-menu-article-pt.PNG" width="450px" align="right"></img>
   </p>
 </div>
-
-<br/>
-
-#### 🛠️ Instalação do Projeto
-
-- Clonar o repositório, rodando o comando a seguir dentro da pasta criada:
-
-```
-yarn install
-npm i
-```
