@@ -36,6 +36,39 @@ Clique no botão 'Copiar' - um alerta vai aparecer na tela, indicando que a cita
     <img align="center" src="./img/use-example-4.png" alt="Terceiro Passo: Copiar/Salvar" width="500px"/>
 </p>
 
+- Formato da variável criada:
+
+```
+@book{magSears,
+    Title={Física III - Eletromagnetismo},
+    Author={Roger A. Freedman and Hugh D. Young},
+    Year={2016},
+    Edition={14},
+    Number={},
+    Volume={3},
+    Publisher={Pearson Education do Brazil},
+    Journal={},
+    Address={São Paulo - SP},
+    Url={shorturl.at/afEU5},
+    Urlaccessdate={20 de Mar. 2021},
+}
+```
+
+#### Passo 3:
+
+<p align=”justify” style="text-align: justify;">
+Com a citação copiada, basta colar a variável criada no seu arquivo '.bib', utilizando um dos os comandos abaixo para citar, utilizando sempre o nome da variável:
+</p>
+
+```
+\cite{nome_variavel}
+\citeonline{nome_variavel}
+```
+
+<p align="center"> 
+    <img align="center" src="./img/use-example-5.png" alt="Quarto Passo: Utilizar citação criada" width="500px"/>
+</p>
+
 <br/>
 
 #### ✂️ Funcionalidades:
