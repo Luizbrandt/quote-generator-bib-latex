@@ -26,17 +26,19 @@ npm i
 
 Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi utilizado, contendo todos os aspectos visuais da interface, além de contar com a opção de tradução da plataforma para o inglês. As imagens a seguir mostram a interface principal (contendo o formulário e os atributos da citação a ser gerada).
 
+<br/>
+
 ##### 📰 Geração de Citações para Artigos (Exemplo - Ingês/Português)
 
-<img src="./img/main-menu-article-en.PNG" width="450px"></img>
-<img src="./img/main-menu-article-pt.PNG" width="450px"></img>
+<img src="./img/main-menu-article-en.PNG" height="750px"></img>
+<img src="./img/main-menu-article-pt.PNG" height="750px"></img>
 
 <br/>
 
 
 ##### 📖 Geração de Citações para Livros (Exemplo - Ingês/Português)
 
-<img src="./img/main-menu-book-en.PNG" width="450px"></img>
-<img src="./img/main-menu-book-pt.png" width="450px"></img>
+<img src="./img/main-menu-book-en.PNG" height="750px"></img>
+<img src="./img/main-menu-book-pt.png" height="750px"></img>
 
 <br/>
