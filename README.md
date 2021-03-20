@@ -16,6 +16,26 @@ Entre com todos os atributo da sua citação, como na imagem abaixo (atualmente,
     <img align="center" src="./img/use-example.png" alt="Primeiro Passo: Entrada dos dados"/>
 </p> 
 
+#### Passo 2:
+
+<p align=”justify” style="text-align: justify;">
+Clique no botão 'Gerar' - a citação vai ser criada, abrindo uma caixa de texto de leitura.
+</p>
+
+<p align="center"> 
+    <img align="center" src="./img/use-example-3.png" alt="Segundo Passo: Criação da citação"/>
+</p>
+
+#### Passo 3:
+
+<p align=”justify” style="text-align: justify;">
+Clique no botão 'Copiar' - um alerta vai aparecer na tela, indicando que a citação foi copiada. Uma outra opção é clicar no arquvio 'Salvar', que vai fazer o download de um arquivo na extensão '.bib'.
+</p>
+
+<p align="center"> 
+    <img align="center" src="./img/use-example-4.png" alt="Terceiro Passo: Copiar/Salvar"/>
+</p>
+
 <br/>
 
 #### ✂️ Funcionalidades:
