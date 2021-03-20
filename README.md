@@ -42,3 +42,15 @@ Para o desenvolvimento deste projeto, um arquivo de configuração '.json' foi u
 <img src="./img/main-menu-book-pt.png" height="650px"></img>
 
 <br/>
+
+##### 📖 Geração de Citações (Exemplo)
+
+<img src="./img/example-1.png"></img>
+
+<br/>
+
+##### 📖 Geração de Citações - Download de Arquivo (Exemplo)
+
+<img src="./img/example-2.png"></img>
+
+<br/>
